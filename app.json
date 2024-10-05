@@ -1,7 +1,7 @@
 
 {
-  "name":"BARAKA-MD-V1",
-  "description":"Best whatsapp bot developed by Baraka bega+Ibrahim adams",
+  "name":"— 𝗨𝗠𝗘𝗥 -🌻💙³",
+  "description":"Best whatsapp bot developed by — 𝗨𝗠𝗘𝗥 -🌻💙³",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/e98ca927f62b4d4e9ba87.jpg",
   "repository":"https://github.com/ibraahadam/BARAKA-MD-V3",
@@ -36,7 +36,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BARAKA-MD-V1",
+      "value":"— 𝗨𝗠𝗘𝗥 -🌻💙³",
       "required":false
 
     } ,
